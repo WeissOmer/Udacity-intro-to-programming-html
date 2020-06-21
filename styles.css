@@ -1,0 +1,29 @@
+.fact {font-style: italic;
+margin: 8px;}
+.List_Bear {list-style: none;
+            padding: 0%;
+            margin: 8px}
+body {border: 1px solid black;
+      width: 340px;
+      display: flex;
+      flex-wrap: wrap;
+      box-shadow: 10px 10px grey;}
+.text {border: 1px solid black;
+      width: 300px;
+      margin-top: 10px;
+      margin-left: 20px;
+      margin-right: 20 px;
+      margin-bottom: 5px;
+      align-content: center;}
+.image {width: 300px;
+        margin-left: 20px;
+        margin-right: 20px;}
+li {padding-right: .6em;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 8px;
+    margin-bottom: 8px;}
+.info {margin: 8px;}
+h3 {margin-left: 20px;
+    font-size: 20px;}
+span {font-weight: bold;}
